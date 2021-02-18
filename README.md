@@ -3,7 +3,7 @@ Takes two reddit accounts and swaps saves from one to the other.
 The goal of this project is to aid users who have too many saved posts from too many places. This project is meant to be used as a filtration system for these types of users. You can now have all your work/motivation related saves on one account and your fun saves on another.
 
 
-# How to use:
+# How to use
 To use this program you will need two seperate reddit accounts, both with access to the reddit API. If you need help setting up the API on your account you can follow this video to about the 3 minute mark: https://www.youtube.com/watch?v=gIZJQmX-55U.
 
 Once that requirement is met you will need to update the 'reddit_info.json' file with your account & API information. You can checkout the Guide5.png file if you need some guidance. The username & password fields are the username & password of your reddit account.
@@ -14,7 +14,7 @@ The rest is up to the user at the moment. There are no user prompts but the code
 
 
 
-# Future additions:
+# Future additions
 -GUI interface with plenty of user prompts
 
 -Ability to maintain just one account instead of requiring two to use
