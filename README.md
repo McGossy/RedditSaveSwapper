@@ -15,9 +15,15 @@ The rest is up to the user at the moment. There are no user prompts but the code
 
 
 # Future additions:
--GUI interface with plenty of user prompts.
--Ability to maintain just one account instead of requiring two to use.
+-GUI interface with plenty of user prompts
+
+-Ability to maintain just one account instead of requiring two to use
+
 -Sorting saved posts by subreddit for either account
+
 -Ability to sort saved comments as well as submissions
+
 -Possibly changing classes to use inheritance, since they share a lot of the same aspects
+
 -Possibly create a mock-up reddit page that allows for live sorting without changing your save structure : Long shot, no clue how to achieve this
+
