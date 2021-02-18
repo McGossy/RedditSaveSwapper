@@ -4,9 +4,9 @@ The goal of this project is to aid users who have too many saved posts from too 
 
 
 # How to use:
-To use this program you will need two seperate reddit accounts, both with access to the reddit API
+To use this program you will need two seperate reddit accounts, both with access to the reddit API. If you need help setting up the API on your account you can follow this video to about the 3 minute mark: https://www.youtube.com/watch?v=gIZJQmX-55U.
 
-Once that requirement is met you will need to update the 'reddit_info.json' file with your account & API information.
+Once that requirement is met you will need to update the 'reddit_info.json' file with your account & API information. You can checkout the Guide5.png file if you need some guidance. The username & password fields are the username & password of your reddit account.
 
 You will probablly also need to install praw which is reddits API python package. pip install praw
 
