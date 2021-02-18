@@ -12,7 +12,7 @@ accounts = []
 accounts.append(info[0]['username'])
 accounts.append(info[1]['username'])
 
-post_limit = 10 #Change to integer to limit your post_limit(reduces time by a ton)
+post_limit = None #Change to integer to limit your post_limit(reduces time by a ton)
 
 #testing taking curated saves from source account and saving them to reciever account
 source_account = SavedPostsSourceAccount(accounts[0], post_limit=post_limit)
